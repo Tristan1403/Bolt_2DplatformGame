@@ -1,0 +1,6 @@
+1.créer un game object pomme
+2.quand le joueur touche la pomme, elle est détruite
+3.quand la pomme est touché  une abeille apparait sur l'axe y=4 et quel'que part sur l'axe x=(-10;10)(créer un game object dynamiquement)
+4.l'abeille suit le joueur avec une vitesse constante
+5.si le joueur est touché, il meurt
+6.au bout de 10 seconde l'abeille meurt
